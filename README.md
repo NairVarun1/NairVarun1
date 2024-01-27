@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **a hotel website**
 
-- 🌱 I’m currently learning **React, Web3**
+- 🌱 I’m currently learning **React & Web3**
 
 - 📫 How to reach me **varung738@gmail.com**
 
