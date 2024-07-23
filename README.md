@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **varung738@gmail.com**
 
-- ⚡ Fun fact **Have a great sense of humour**
+- ⚡ Fun fact: **Have a great sense of humour**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
