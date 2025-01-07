@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Varun Nair</h1>
-<h3 align="center">A passionate Web Designer and Developer from India</h3>
+<h3 align="center">A passionate Web Designer and Software Developer from India</h3>
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjQyNXQ3enByY3cwMm5yOXQ1bDU5amUxcms5ZWM5NGJibm95aGIwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="400" align="right" alt="Coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nairvarun1&label=Profile%20views&color=0e75b6&style=flat" alt="nairvarun1" /> </p>
 
-- 🔭 I’m currently working on **a Hotel Website**
+- 🔭 I’m currently working on **Advanced Python Development**
 
 - 🌱 I’m currently learning **Data Structues & Algorithms**
 
