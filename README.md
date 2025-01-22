@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nairvarun1&label=Profile%20views&color=0e75b6&style=flat" alt="nairvarun1" /> </p>
 
-- 🔭 I’m currently working on **Advanced Python Development**
+- 🔭 I’m currently working on **Automation Testing**
 
-- 🌱 I’m currently learning **Data Structues & Algorithms**
+- 🌱 I’m currently learning **Java, Selenium and JMeter**
 
-- 📫 How to reach me **varung738@gmail.com**
+- 📫 How to reach me **varunnair266@gmail.com**
 
 - ⚡ Fun fact: **Have a great sense of humour**
 
